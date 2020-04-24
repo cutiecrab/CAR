@@ -1,5 +1,5 @@
 # CAP
-2020-SPRING) INC-CAPSTONE DESIGN :  CAP(Corporates Analysis &amp; Predict(of crisis))
+2020-SPRING) INC-CAPSTONE DESIGN :  CAP(Corporates Analysis &amp; Prediction(of risk))
 
 This project aims to use data provided by the Ministry of SMEs and Startups - Republic of Korea
 to analyze & predict the risks of a corporates bankruptcy.
