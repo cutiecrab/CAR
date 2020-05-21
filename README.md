@@ -1,7 +1,7 @@
-# CAP
-2020-SPRING) INC-CAPSTONE DESIGN :  CAP(Corporates Analysis &amp; Prediction of risk)
+# CAR
+2020-SPRING) INC-CAPSTONE DESIGN :  CAR(Corporates Analysis of the Risk)
 
 This project aims to use Data -provided by the Ministry of SMEs and Startups (Republic of Korea)-
-to analyze & predict the risk of a corporates bankruptcy.
+to analyze the risk of a corporates bankruptcy.
 
-Project name: CAP is the abbreviation of Corporates Analysis & Prediction of risk.
+Project name: CAR is the abbreviation of Corporates Analysis of the Risk.
