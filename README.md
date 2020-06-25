@@ -2,7 +2,7 @@
 발표자료에 사용한 폰트는 나눔글꼴(나눔스퀘어) 입니다. 폰트가 미설치된 경우 발표자료가 깨져 보일 수 있습니다.  
 폰트 설치 페이지 : https://hangeul.naver.com/2017/nanum
 
-프로젝트 구현 페이지(주소) : -
+프로젝트 구현 페이지(주소) : https://f1b28b326635.ngrok.io
 
 2020-SPRING) INC-CAPSTONE DESIGN :  CAR(Corporates Analysis of the Risk)
 
